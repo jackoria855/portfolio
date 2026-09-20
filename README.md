@@ -1,10 +1,10 @@
 # portfolio
-# Hi, I'm Jack 👋
+# Hi, I'm Jack 
 **Computer Science Student at Wilfrid Laurier University | Software Developer**
 
 I specialize in building enterprise data pipelines, ERP integrations, and multi-agent AI workflows. I'm currently focused on developing mathematical optimization tools and standalone software.
 
-## 🚀 Featured Work
+##  Featured Work
 
 ### Local Multi-Agent AI Workflow
 *   **Architecture:** Designed a local iterative coding workflow running across multiple LLM nodes using **LangGraph** and **Ollama**.
@@ -18,11 +18,11 @@ I specialize in building enterprise data pipelines, ERP integrations, and multi-
 *   **Engineering:** Constructed an LCC optimization model utilizing **Python, NumPy, and SciPy**.
 *   **Impact:** Calculated optimal furnace charges and connected the engine to Business Central via **Azure Functions**.
 
-## 💼 Experience & Grit
+##  Experience & Grit
 *   **Software Developer:** Built custom AL extensions and managed ERP migrations at the CBB Group of Companies.
 *   **Tree Planter (Brinkman):** Worked high-endurance remote contracts in Hearst, Ontario.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 *   **Languages:** Python, Java, AL, VBA
 *   **Frameworks & Tools:** LangGraph, Pandas, SciPy, Spring Boot
 *   **Ecosystems:** Microsoft Dynamics 365, Azure, E2 JobBOSS²
